@@ -5,3 +5,6 @@ This is just designed to be a simple math program, along with some
 miscallenous things (1 for now)
 
 This is a command-line program.
+
+# Feel free to edit this however you like
+Push requests, etc are all welcome! I'm looking forward to improving.
